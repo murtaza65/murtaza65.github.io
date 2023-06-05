@@ -1,4 +1,4 @@
-Improving Health Outcomes Using Remote Patient Monitoring
+# Improving Health Outcomes Using Remote Patient Monitoring
 Imagine these scenarios…
 
 ●	Here is Jane, a 65-year-old woman with high blood pressure and diabetes. Recently, she has been dealing with dizziness and rapidly changing blood pressure. Her doctor suggests using a special device to monitor her health from home. The device continuously tracks her vital signs and sends data wirelessly to her doctor, who can review it in real-time. This helps the doctor detect patterns, make timely adjustments to her treatment, and provide personalized care. Jane feels confident knowing her health is monitored, even at home. 
@@ -9,6 +9,8 @@ Remote Patient Monitoring
 
 Figure 1
 Remote patient monitoring follows this simple structure. 
+
+![alt text](https://github.com/murtaza65/murtaza65.github.io/blob/main/0.png?raw=true)
 
 
  
@@ -47,6 +49,10 @@ Figure 2
 Remote patient monitoring and risk prediction models contribute to the data flow.
 
 
+![alt text](https://github.com/murtaza65/murtaza65.github.io/blob/main/1.png?raw=true)
+ 
+
+
 
 Note.
 Adapted from "The role of digital technology in surgical home hospital programs," by Pathak, K., Marwaha, J.S. & Tsai, T.C. npj Digit. Med. 6, 22 (2023). https://doi.org/10.1038/s41746-023-00750-w
@@ -66,6 +72,9 @@ Patients who benefit from remote patient monitoring.
 This can benefit a wide range of patients, particularly those with various health challenges, and follows a three steps route as highlighted in Figure 3. Namely, the first step involves transmitting patient data via a digital device where patients answer health-related questions or take measurements. In the second step, the received data is evaluated either by healthcare providers or through automated assessment by a program. High-risk data is then forwarded to healthcare providers for further follow-up. Here, the healthcare providers reach out to patients if any concerns are indicated.
 
 Figure 3. Remote patient monitoring in three steps 
+
+![alt text](https://github.com/murtaza65/murtaza65.github.io/blob/main/2.png?raw=true)
+
 
 
 
