@@ -9,7 +9,7 @@ Remote Patient Monitoring
 
 Figure 1
 Remote patient monitoring follows this simple structure. 
-![alt text](https://github.com/murtaza65/murtaza65.github.io/blob/main/0.png?raw=true)
+
 
  
 
@@ -46,8 +46,7 @@ Figure 2
 
 Remote patient monitoring and risk prediction models contribute to the data flow.
 
-![alt text](https://github.com/murtaza65/murtaza65.github.io/blob/main/1.png?raw=true)
- 
+
 
 Note.
 Adapted from "The role of digital technology in surgical home hospital programs," by Pathak, K., Marwaha, J.S. & Tsai, T.C. npj Digit. Med. 6, 22 (2023). https://doi.org/10.1038/s41746-023-00750-w
@@ -68,7 +67,7 @@ This can benefit a wide range of patients, particularly those with various healt
 
 Figure 3. Remote patient monitoring in three steps 
 
-![alt text](https://github.com/murtaza65/murtaza65.github.io/blob/main/2.png?raw=true)
+
 
  
 Note.
