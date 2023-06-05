@@ -6,9 +6,10 @@ Imagine these scenarios…
 ●	A second example is Jude, a 52-year-old man with a recent heart attack and bypass surgery. To ensure a successful recovery, his doctor suggests using a remote monitoring device that remotely records his heart and vital signs. The device sends data to the medical team, who can detect problems early and adjust his treatment if needed. Jude agrees to use the device for added support.
 
 Remote Patient Monitoring
+
 Figure 1
 Remote patient monitoring follows this simple structure. 
-![alt text](https://github.com/murtaza65/RPM.github.io/blob/main/0.png?raw=true)
+![alt text](https://github.com/murtaza65/murtaza65.github.io/blob/main/0.png?raw=true)
 
  
 
@@ -40,9 +41,12 @@ The following highlights the benefits of incorporation of RPM in patient care:
 
 
 Health parameters detection using RPM and its risk prediction models
+
 Figure 2 
+
 Remote patient monitoring and risk prediction models contribute to the data flow.
-![alt text](https://github.com/murtaza65/RPM.github.io/blob/main/1.png?raw=true)
+
+![alt text](https://github.com/murtaza65/murtaza65.github.io/blob/main/1.png?raw=true)
  
 
 Note.
@@ -63,7 +67,8 @@ Patients who benefit from remote patient monitoring.
 This can benefit a wide range of patients, particularly those with various health challenges, and follows a three steps route as highlighted in Figure 3. Namely, the first step involves transmitting patient data via a digital device where patients answer health-related questions or take measurements. In the second step, the received data is evaluated either by healthcare providers or through automated assessment by a program. High-risk data is then forwarded to healthcare providers for further follow-up. Here, the healthcare providers reach out to patients if any concerns are indicated.
 
 Figure 3. Remote patient monitoring in three steps 
-![alt text](https://github.com/murtaza65/RPM.github.io/blob/main/2.png?raw=true)
+
+![alt text](https://github.com/murtaza65/murtaza65.github.io/blob/main/2.png?raw=true)
 
  
 Note.
